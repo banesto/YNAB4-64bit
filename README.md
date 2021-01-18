@@ -1,3 +1,5 @@
+Disclaimer: Forked from and all the credit goes to https://gitlab.com/bradleymiller/Y64/-/tree/master
+
 # 64-bit YNAB 4 converter shell script for macOS
 
 YNAB 4 is a 32-bit application that will not run on macOS beginning with macOS Catalina. Catalina is the first version of macOS to exclusively support 64-bit applications. YNAB made an announcement that they will not update YNAB 4 to the 64-bit architecture.
