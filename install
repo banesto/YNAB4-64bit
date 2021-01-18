@@ -4,7 +4,7 @@
 # SHELL SCRIPT VERSION: 1.0
 # 64-BIT APP VERSION 1.0
 
-APP_URL1="https://classic.youneedabudget.com/CDNOrigin/download/ynab4/liveCaptive/Mac/YNAB4_LiveCaptive_4.3.855.dmg"
+APP_URL1="https://www-assets.youneedabudget.com/ynab4/YNAB4_LiveCaptive_4.3.855.dmg"
 APP_URL2="https://web.archive.org/web/20190613044706/https://classic.youneedabudget.com/CDNOrigin/download/ynab4/liveCaptive/Mac/YNAB4_LiveCaptive_4.3.855.dmg"
 APP_FILE="YNAB4_LiveCaptive_4.3.855.dmg"
 APP_SIZE="28MB"
